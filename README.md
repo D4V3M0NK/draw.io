@@ -4,14 +4,14 @@ This repo will house shapes, templates and other [draw.io][drawio-url] resources
 
 # Latest updates
   - Microsoft Windows logo (no images)
-  ![windows.jpg](https://github.com/D4V3M0NK/draw.io/blob/master/logos/windows/windows.jpg)
+  ![windows.jpg](https://github.com/D4V3M0NK/draw.io/blob/master/logos/windows/windows.jpg | width=48)
 
   - US Dell Keyboard (no images)
     - US Dell KB212-B keyboard layout
     - All shapes (including the Windows logo)
     - Grouped keys
     - No imported images
-  ![Keyboard.jpg](https://github.com/D4V3M0NK/draw.io/blob/master/keyboard/Keyboard.jpg)
+  ![Keyboard.jpg](https://github.com/D4V3M0NK/draw.io/blob/master/keyboard/Keyboard.jpg | width=48)
 
 
 
