@@ -5,7 +5,7 @@ Keyboard is a draw.io template of a US Dell KB212-B keyboard layout. With the ex
 # Latest updates
 
   - US Dell Keyboard (no images)
-  ![Keyboard.jpg](https://github.com/D4V3M0NK/draw.io-keyboard/blob/master/Keyboard.jpg)
+  ![Keyboard.jpg](https://github.com/D4V3M0NK/draw.io/blob/master/keyboard/Keyboard.jpg)
 
   - Grouped keys
   - No imported images
